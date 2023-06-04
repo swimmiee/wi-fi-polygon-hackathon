@@ -1,0 +1,9 @@
+[submodule "wi-fi-frontend"]
+	path = wi-fi-frontend
+	url = https://github.com/take5ive/wi-fi-frontend
+[submodule "wi-fi-backend"]
+	path = wi-fi-backend
+	url = https://github.com/take5ive/wi-fi-backend
+[submodule "wi-fi-contract"]
+	path = wi-fi-contract
+	url = https://github.com/take5ive/wi-fi-contract
